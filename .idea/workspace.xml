@@ -87,7 +87,7 @@
         <entry file="file://$PROJECT_DIR$/src/insta_activity_container.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="264">
-              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -275,6 +275,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Mokh\WebstormProjects\usts_react\screenshots" />
       <recent name="C:\Users\Mokh\WebstormProjects\usts_react\public" />
       <recent name="C:\Users\Mokh\WebstormProjects\usts_react\src" />
     </key>
@@ -382,12 +383,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1484692772031</updated>
-      <workItem from="1484692778418" duration="47268000" />
+      <workItem from="1484692778418" duration="47648000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47268000" />
+    <option name="totallyTimeSpent" value="47648000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="7" />
@@ -720,7 +721,7 @@
     <entry file="file://$PROJECT_DIR$/src/insta_activity_container.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding />
         </state>
       </provider>
