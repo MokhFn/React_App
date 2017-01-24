@@ -1,0 +1,56 @@
+
+@font-face {
+  font-family: USTS_Font;
+  src: url("/Raleway-Light.ttf") format("truetype");
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: USTS_Font,serif;
+  background: url("/bg.gif") no-repeat center center fixed;
+}
+.page-footer{
+  position:fixed;
+  left:0;
+  right:0;
+  z-index:10000;
+  bottom:0!important;
+  background-color : grey;
+  color: white;
+  height: 50px;
+  font-size: 15px;
+}
+.pull-right a {
+  font-size: 20px;
+  padding: 10px;
+}
+.page-container {
+  padding:50px;
+}
+.card {
+  background: yellow;
+  border-radius: 2px;
+  margin: 1rem;
+}
+
+.card-3 {
+  box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+}
+.numberCircle {
+  border-radius: 50%;
+
+  width: 36px;
+  height: 36px;
+  padding: 8px;
+
+  background: #fff;
+  border: 2px solid black;
+  color: #666;
+  text-align: center;
+
+  font: 32px Arial, sans-serif;
+}
+.numberCircle:hover {
+  border-color: red;
+}
