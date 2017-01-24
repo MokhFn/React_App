@@ -3,32 +3,16 @@
  */
 
 import React from 'react';
-import { render } from 'react-dom';
-//import EmailInput from './components/EmailInput'
-//require('css/stylesheet.css');
 
 class insta_activity_container extends React.Component {
 
     constructor() {
         super();
-        this.state = {
-            valid: false,
-            value : "",
-            text : ""
-        };
+        this.state = {};
     }
 
     render () {
-        const {
-            value
-        } = this.state.value;
-        return (
-            <span>
-        <span>Email: </span><br />
-        <input type='text' value={value} onChange={this.handleChange.bind(this)} /><br />
-          <span>{this.state.text}</span>
-      </span>
-        );
+
     }
 }
 
